@@ -16,8 +16,8 @@ public class EmployeeReportController {
 
 	@GetMapping("/report")
 	public String generateReport() {
-		System.out.print(" my first change1 '''24");
-		System.out.print(" my first change 34242");
+		System.out.print(" my first change1");
+		System.out.print(" my first change");
 		return employeeReportService.generateReport();
 	}
 }
