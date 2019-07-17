@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.javatechie.es.api.SpringBootElasticserachExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.746 s - in com.javatechie.es.api.SpringBootElasticserachExampleApplicationTests

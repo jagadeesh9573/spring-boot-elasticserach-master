@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-elasticserach-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JAGADEESH
+Implementation-Vendor-Id: com.javatechie
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-elasticserach-example
+Created-By: Maven Integration for Eclipse
+
